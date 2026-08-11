@@ -1,4 +1,4 @@
-📊 Analyse des ventes e-commerce : Réalisations
+Analyse des ventes e-commerce : Réalisations
 J'ai mené un projet d'analyse de données pour une entreprise e-commerce afin de transformer des données brutes en indicateurs stratégiques.
 
 Mes réalisations clés :
