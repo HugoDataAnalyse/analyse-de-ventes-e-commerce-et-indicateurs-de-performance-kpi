@@ -1,12 +1,10 @@
-Analyse des ventes e-commerce : Réalisations
-J'ai mené un projet d'analyse de données pour une entreprise e-commerce afin de transformer des données brutes en indicateurs stratégiques.
+🛒 Analyse des ventes e-commerce
+Transformation de données de vente brutes en indicateurs stratégiques pour le pilotage d'activité.→ Optimisation du catalogue produits, du tunnel de conversion et de la stratégie de fidélisation clients.
 
-Mes réalisations clés :
+📈 Reporting mensuel & Data StorytellingCentralisation et traitement automatisé des volumes de ventes et du chiffre d'affaires (CA).→ Traduction des données de performance complexes en tableaux de bord clairs pour la direction.
 
-Création d'un rapport mensuel automatisé : Centralisation et traitement des volumes de ventes et du chiffre d'affaires. Traduction des données complexes en visuels clairs (data storytelling) pour faciliter les décisions de la direction.
+🎯 Analyse produit & Optimisation du catalogue
+Segmentation de l'offre commerciale et identification des dynamiques d'achat.→ Cartographie fine des produits tops/flops et détection des tendances de consommation.
 
-Analyse de performance produits : Identification des tops/flops et détection des tendances d'achat pour optimiser la gestion du catalogue.
-
-Audit du programme d'affiliation : Nettoyage, croisement et segmentation des bases de données clients pour évaluer le retour sur investissement (ROI) des partenaires marketing.
-
-Recommandations business : Formulation de propositions concrètes pour optimiser le tunnel de conversion et la fidélisation.
+💰 Audit marketing & Retour sur investissement (ROI)
+Nettoyage, croisement et segmentation avancée des bases de données clients.→ Évaluation de la performance financière du programme d'affiliation et des partenaires.
